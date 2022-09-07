@@ -26,6 +26,9 @@
   <a href="https://www.linkedin.com/in/eduardo-costa-a6382933/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div align="center">
+  <h3>Contato: eccosta2000@bol.com.br </h3>
+</div>
 
 
           
