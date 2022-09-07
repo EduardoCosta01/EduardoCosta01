@@ -1,8 +1,8 @@
 ### Oii eu sou Eduardo Costa 👋
 
 
-- 🔭 Estou fazendo transição de carreira, saindo da area Administrativa para area de TI
-- 🌱 Atualmente faço a faculdade de Analise de sistema
+- 🔭 Atualmente estou fazendo transição de carreira, saindo da área Administrativa para área de TI
+- 🌱 Cursando a faculdade de Análise de sistema
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
