@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou fazendo transição de carreira, saindo da área Administrativa para área de TI
-- 🌱 Cursando a faculdade de Análise de sistema
+- 🌱 Cursando a faculdade de Análise e desenvolvimento de sistema
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
