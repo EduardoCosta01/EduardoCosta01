@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou fazendo transição de carreira, saindo da área Administrativa para área de Tecnologia da Informação (Desenvolvimento)
-- 🔭 Graduado em Administração com mais de 20 anos de experiência na área Administrativa. 
+- 🔭 Graduado em Administração com mais de 20 anos de experiência. 
 - 🔭 Sou uma pessoa de fácil aprendizado, resiliente e movido a desafios. Busco constantemente o meu crescimento profissional.
 - 🌱 Cursando a faculdade de Análise e desenvolvimento de sistema
 - 😄 Pronouns: Ele/dele
