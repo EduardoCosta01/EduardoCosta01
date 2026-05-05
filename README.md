@@ -32,23 +32,6 @@ Com mais de **20 anos de experiência em Administração**, trago para a tecnolo
 
 ---
 
-### 📊 Performance & Insights
-
-<div align="center">
-  <!-- Status Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCosta01&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <!-- Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCosta01&layout=compact&langs_count=6&theme=react" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <!-- Streak Card -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoCosta01&theme=react&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📈 Metas de Engenharia
 - [x] Domínio de React & State Management.
 - [ ] Implementação de Testes Automatizados (Jest/Cypress).
