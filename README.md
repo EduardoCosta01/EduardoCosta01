@@ -1,6 +1,10 @@
+# Olá, eu sou o Eduardo Costa!
+
+
+
 <div align="center">
    <p align="center">
-    <strong>Sênior em Gestão | Especialista em Desenvolvimento Front-end em Formação</strong>
+    <strong>Administrador por experiência, Desenvolvedor Front-end por paixão.</strong>
   </p>
 
   <p align="center">
