@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/eduardo-costa-a6382933/">
+    <a href="https://www.linkedin.com/in/eduardo-costa-dev/">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
