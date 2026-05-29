@@ -32,12 +32,12 @@ Vamos conversar sobre como posso contribuir com seu projeto?
 
 <table>
   <tr>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs," /></td>
-  </tr>
-  <tr>
     <td align="center"><b>Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs," /></td>
   </tr>
   <tr>
     <td align="center"><b>Banco de Dados</b></td>
