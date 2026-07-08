@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, eu sou o Eduardo Costa!! </h1>
-  <h3>Administrador por experiência, Desenvolvedor Front-end por paixão.</h3>
+  <h3>Administrador por experiência, Desenvolvedor Full Stack por paixão.</h3>
   <h4><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> React.js • Javascript •  APIs REST • Node.js • Typescript</h4>
      <p>
     <a href="https://www.linkedin.com/in/eduardo-costa-dev/">
@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Desenvolvedor Front-End com foco em React, TypeScript e JavaScript. Tenho experiência prática com HTML5, CSS3 e Tailwind CSS, sempre buscando escrever código limpo, componentizado e escalável.
+Desenvolvedor -FFull Stack com foco em React, TypeScript, JavaScript e Node. Tenho experiência prática com HTML5, CSS3 e Tailwind CSS, sempre buscando escrever código limpo, componentizado e escalável.
 Atuei como desenvolvedor na DSafeTech, onde trabalhei no desenvolvimento e manutenção de aplicações web com JavaScript, PHP, MySQL e Git. Essa experiência me deu visão real de como funciona o ciclo de desenvolvimento em um ambiente profissional.
 Antes de migrar para tecnologia, atuei por mais de 20 anos em Administração e Gestão — o que me trouxe maturidade profissional, comunicação clara com times e facilidade para entender o impacto do produto no negócio.
 Tenho graduação em Análise e Desenvolvimento de Sistemas e estou em constante evolução, construindo projetos práticos e aprofundando minha stack front-end.
@@ -24,7 +24,7 @@ Tenho graduação em Análise e Desenvolvimento de Sistemas e estou em constante
 Vamos conversar sobre como posso contribuir com seu projeto?
 
 *   🎓 **Acadêmico:** Análise e Desenvolvimento de Sistemas.
-*   🎯 **Target:** Junior Front-end Developer.
+*   🎯 **Target:** Junior Full Stack Developer.
 
 ---
 
