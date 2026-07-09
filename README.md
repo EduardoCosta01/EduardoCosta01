@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Desenvolvedor -FFull Stack com foco em React, TypeScript, JavaScript e Node. Tenho experiência prática com HTML5, CSS3 e Tailwind CSS, sempre buscando escrever código limpo, componentizado e escalável.
+Desenvolvedor -Full Stack com foco em React, TypeScript, JavaScript e Node. Tenho experiência prática com HTML5, CSS3 e Tailwind CSS, sempre buscando escrever código limpo, componentizado e escalável.
 Atuei como desenvolvedor na DSafeTech, onde trabalhei no desenvolvimento e manutenção de aplicações web com JavaScript, PHP, MySQL e Git. Essa experiência me deu visão real de como funciona o ciclo de desenvolvimento em um ambiente profissional.
 Antes de migrar para tecnologia, atuei por mais de 20 anos em Administração e Gestão — o que me trouxe maturidade profissional, comunicação clara com times e facilidade para entender o impacto do produto no negócio.
 Tenho graduação em Análise e Desenvolvimento de Sistemas e estou em constante evolução, construindo projetos práticos e aprofundando minha stack front-end.
